@@ -1,0 +1,1 @@
+This is a repository to be used for practicing with git students in the University of Waterloo course PSYCH363 Fall 2020 Term. 
