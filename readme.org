@@ -1,1 +1,3 @@
 This is a repository to be used for practicing with git. Intended for students in the University of Waterloo course PSYCH363 Fall 2020 Term. 
+
+Once again, simply an edit to show this is my copy and get used to commits! 
