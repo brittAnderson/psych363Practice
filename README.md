@@ -1,2 +1,1 @@
-# psych363Practice
-This is my fork of the file from brittAnderson
+This is a repo for practicing issues and pull requests for Britt Anderson's Psych420 course at the University of Waterloo. See also: https://brittanderson.github.io/Intro2Computing4Psychology/book/index.html
